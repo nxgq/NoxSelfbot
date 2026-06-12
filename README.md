@@ -6,10 +6,6 @@ README.md
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/Version-4.0-red)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Discord](https://img.shields.io/badge/Discord-SelfBot-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 **Discord Self-Bot | Made by NOX | Powered by Aetherbark AI**
 
