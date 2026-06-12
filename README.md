@@ -62,7 +62,7 @@ pkg install python -y
 pip install requests
 
 # Download the bot
-curl -O https://raw.githubusercontent.com/nox/selfbot/main/nox_selfbot.py
+git clone https://github.com/nxgq/NoxSelfbot.git
 
 # Edit config (paste your token)
 nano nox_selfbot.py
