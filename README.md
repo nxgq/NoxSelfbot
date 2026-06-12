@@ -1,6 +1,8 @@
 # NoxSelfbot
 README.md
 
+WILL BE UPDAYE THIS IS A TEST VERSION 
+
 ```markdown
 # ⚡ NOX SELF-BOT v4.0
 
@@ -262,7 +264,7 @@ Discord API Platform
 📞 Support
 
 · GitHub Issues: Report bugs here
-· Discord: NOX#0001
+· Discord: 8dgy
 
 ---
 
